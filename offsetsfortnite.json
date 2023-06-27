@@ -1,1 +1,35 @@
+{
+   "offsets":{
+      "uworld":"0x92df200",
+      "Gameinstance":"0x92DF238",
+      "LocalPlayers":"0x0",
+      "PlayerController":"0x38",
+      "LocalPawn":"0x90e0600",
+      "PlayerState":"0x91135c0",
+      "RootComponet":"0x91135F8",
+      "GameState":"0x32d79f0",
+      "PersistentLevel":"0x32d7980",
+      "ActorCount":"0x355ce00",
+      "Cameramanager":"0x3548490",
+      "AActor":"0x4f4c840",
+      "CurrentActor":"0x4f7ab90",
+      "Mesh":"0x23db3e0",
+      "Revivefromdbnotime":"0x1b81b10",
+      "TeamId":"0x8BA4ED0",
+      "ActorTeamId":"0x8BA4940",
+      "IsDBNO":"0x4A29730",
+      "LocalActorPos":"0x509ace0",
+      "ComponetToWorld":"0x4d20770",
+      "BoneArray":"0x38",
+      "Velocity":"0x1A0",
+      "PawnPrivate":"0x140",
+      "PlayerArray":"0x158",
+      "relativelocation":"0x40",
+      "UCharacterMovementComponent":"0xA0",
+      "entity_actor":"0xB8",
+      "bIsReloadingWeapon":"0x78",
+      "GlobalAnimRateScale":"0x38",
+      "CurrentWeapon":"0x460"
+   }
+}
 
