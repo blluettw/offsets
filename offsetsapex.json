@@ -1,6 +1,21 @@
 {
    "offsets":{
-      "viewmatrix":"0x9ae34c0",
-      "viewrender":"0x6f0"
+      "ViewMatrix":"0x11A350",
+      "EntityList":"0x1e743a8",
+      "LocalPlayer":"0x2224528",
+      "Origins":"0x017c",
+      "Bones":"0xF10",
+      "Health":"0x0470",
+      "MaxHealth":"0x01a0",
+      "TeamId":"0x0480",
+      "LastVisible":"0x1aa0",
+      "PlayerState":"0x2790",
+      "nSkin":"0x0e84",
+      "LastPrimaryWeapon":"0x1a44",
+      "BLEED_OUT_STATE":"0x2790",
+      "ThirdPerson":"0x2790",
+      "m_iname":"0x05c1",
+      "ViewRender":"0x7472E00"
+
    }
 }
