@@ -15,6 +15,12 @@
       "BLEED_OUT_STATE":"0x2790",
       "ThirdPerson":"0x2790",
       "m_iname":"0x05c1",
+      "ItemGlowID":"0x02f0",
+      "m_armorType":"0x4694",
+      "m_helmetType":"0x4690",
+      "m_weaponNameIndex":"0x1888",
+      "m_shieldHealth":"0x01a0",
+      "m_shieldHealthMax":"0x01a4",
       "ViewRender":"0x7472E00"
 
    }
