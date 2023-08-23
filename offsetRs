@@ -1,0 +1,27 @@
+{
+   "offsets":{
+
+"OffsetBaseEntity":"0x2FAE7C8",
+"OffsetMainCamera":"0x323E378",
+"OffsetPlayerInput":"0x548",
+"OffsetSmoothVelocity":"0x1DC",
+"OffsetBoneTransforms":"0x48",
+"OffsetSkeleton":"0x40",
+"OffsetBone":"0x20",
+"OffsetVisibe":"0x228",
+"OffsetSmoothVelocity":"0x1DC",
+"OffsetItem":"0x170",
+"OffsetBodyAngles":"0x3C",
+"OffsetRecoilAngles":"0x64",
+"OffsetGroundAngle":"0xC4",
+"OffsetBlockAiming":"0x898",
+"OffsetFlying":"0x149",
+"OffsetItemContainer":"0x28",
+"OffsetListList":"0x40",
+"oLifeState":"0x234",
+"OffsetItemDefinition":"0x18",
+"OffsetItemid":"0x20"
+
+
+   }
+}
