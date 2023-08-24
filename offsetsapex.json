@@ -2,7 +2,7 @@
    "offsets":{
       "ViewMatrix":"0x11A350",
       "EntityList":"0x1e74448",
-      "LocalPlayer":"0x22245C8",
+      "LocalPlayer":"0x22245c8",
       "Origins":"0x017c",
       "Bones":"0xF10",
       "Health":"0x0470",
@@ -22,7 +22,7 @@
       "m_shieldHealth":"0x01a0",
       "m_shieldHealthMax":"0x01a4",
       "StudioHdr":"0x1118",
-      "ViewRender":"0x7472A28"
+      "ViewRender":"0x7472a28"
 
    }
 }
