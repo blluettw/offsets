@@ -2,7 +2,7 @@
    "offsets":{
 
 "OffsetWorld":"0x10E500E8",
-"OffsetNames":"0x10EFDA00",
+"OffsetNames":"0xEEB2C80",
 "OffsetPersistentLevel":"0x30",
 "OffsetOwningGameInstance":"0x1b8",
 "OffsetGameState":"0x158",
