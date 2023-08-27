@@ -9,7 +9,6 @@
 "OffsetSkeleton":"0x40",
 "OffsetBone":"0x20",
 "OffsetVisibe":"0x228",
-"OffsetSmoothVelocity":"0x1DC",
 "OffsetItem":"0x170",
 "OffsetBodyAngles":"0x3C",
 "OffsetRecoilAngles":"0x64",
