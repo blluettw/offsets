@@ -20,7 +20,7 @@
 "OffsetListList":"0x40",
 "oLifeState":"0x234",
 "OffsetItemDefinition":"0x18",
-"BaseNetworkable":"0X31D7EE0",
+"OffsetBaseNet":"0X31D7EE0",
 "OffsetItemid":"0x20"
 
 
