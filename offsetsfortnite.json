@@ -21,7 +21,7 @@
 "OffsetisDBNO":"0x872",
 "OffsetCurrentWeapon":"0x948",
 "OffsetbIsReloadingWeapon":"0x358",
-"OffsetPawnPrivate":"0x30C",
+"OffsetPawnPrivate":"0x308",
 "OffsetPlayerNamePrivate":"0x380",
 "OffsetCameraCachePrivate":"0x22B0",
 "OffsetMesh":"0x318",
