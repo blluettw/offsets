@@ -4,7 +4,7 @@
 "OffsetWorld":"0x10E511C8",
 "OffsetNames":"0x10EFDA00",
 "OffsetPersistentLevel":"0x30",
-"OffsetOwningGameInstance":"0x1C0",
+"OffsetOwningGameInstance":"0x1b8",
 "OffsetGameState":"0x158",
 "OffsetPlayerArray":"0x2B0",
 "OffsetActorArray":"0x98",
