@@ -1,8 +1,8 @@
 {
    "offsets":{
-      "ViewMatrix":"0x11A350",
-      "EntityList":"0x1e74448",
-      "LocalPlayer":"0x22245c8",
+      "ViewMatrix":"0x11a350",
+      "EntityList":"0x1e754c8",
+      "LocalPlayer":"0x2225648",
       "Origins":"0x017c",
       "Bones":"0xF10",
       "Health":"0x0470",
