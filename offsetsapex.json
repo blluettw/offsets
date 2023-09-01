@@ -4,7 +4,7 @@
       "EntityList":"0x1e754c8",
       "LocalPlayer":"0x2225648",
       "Origins":"0x017c",
-      "Bones":"0xF10",
+      "Bones":"0x0ec8 + 0x48",
       "Health":"0x0470",
       "MaxHealth":"0x05b0",
       "TeamId":"0x0480",
@@ -23,6 +23,5 @@
       "m_shieldHealthMax":"0x01a4",
       "StudioHdr":"0x1118",
       "ViewRender":"0x7473a28"
-
    }
 }
