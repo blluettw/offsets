@@ -2,7 +2,7 @@
    "offsets":{
 
 "OffsetBaseEntity":"0x3391268",
-"OffsetMainCamera":"0x33BDD08",
+"OffsetMainCamera":"0x1A77540",
 "OffsetPlayerInput":"0x608",
 "OffsetSmoothVelocity":"0x1DC",
 "OffsetBoneTransforms":"0x48",
