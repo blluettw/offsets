@@ -1,8 +1,8 @@
 {
    "offsets":{
 
-"OffsetWorld":"0x10E511C8",
-"OffsetNames":"0x10EFDA00",
+"OffsetWorld":"0x10e511c8",
+"OffsetNames":"0x10f91a10",
 "OffsetPersistentLevel":"0x30",
 "OffsetOwningGameInstance":"0x1b8",
 "OffsetGameState":"0x158",
@@ -10,12 +10,12 @@
 "OffsetActorArray":"0x98",
 "OffsetActorCount":"0xA0",
 "OffsetLocalPlayers":"0x38",
-"OffsetLocalPawn":"0x340",
+"OffsetLocalPawn":"0x338",
 "OffsetLocalPlayerControl":"0x30",
 "OffsetAcknowledgedPawn":"0x340",
 "OffsetCameraManager":"0x348",
 "OffsetMyHUD":"0x338",
-"OffsetPlayerState":"0x2B8",
+"OffsetPlayerState":"0x2b0",
 "OffsetPlayerNameStruct":"0xAE0",
 "OffsetDamageHandler":"0x9A8",
 "OffsetisDBNO":"0x872",
