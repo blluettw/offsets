@@ -1,19 +1,19 @@
 {
    "offsets":{
       "ViewMatrix":"0x11a350",
-      "EntityList":"0x1e23418",
-      "LocalPlayer":"0x21d3758",
+      "EntityList":"0x1e223f8",
+      "LocalPlayer":"0x21d2738",
       "Origins":"0x017c",
       "Bones":"0xE18",
       "Health":"0x036c",
-      "MaxHealth":"0x05b0",
+      "MaxHealth":"0x04a8",
       "TeamId":"0x037c",
-      "LastVisible":"0x19B8",
+      "LastVisible":"0x19b0",
       "PlayerState":"0x2790",
       "nSkin":"0x0d84",
       "LastPrimaryWeapon":"0x1a44",
       "BLEED_OUT_STATE":"0x26a0",
-      "ThirdPerson":"0x01e04160",
+      "ThirdPerson":"0x36b4",
       "m_iname":"0x05c1",
       "ItemGlowID":"0x02f0",
       "m_armorType":"0x4694",
@@ -22,6 +22,6 @@
       "m_shieldHealth":"0x01a0",
       "m_shieldHealthMax":"0x01a4",
       "StudioHdr":"0x1118",
-      "ViewRender":"0x74210a8"
+      "ViewRender":"0x74200A8"
    }
 }
