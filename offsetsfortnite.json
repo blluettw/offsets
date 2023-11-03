@@ -19,7 +19,7 @@
 "OffsetPlayerNameStruct":"0xAE0",
 "OffsetDamageHandler":"0x9A8",
 "OffsetisDBNO":"0x872",
-"OffsetCurrentWeapon":"0x948",
+"OffsetCurrentWeapon":"0x9f8",
 "OffsetbIsReloadingWeapon":"0x358",
 "OffsetPawnPrivate":"0x308",
 "OffsetPlayerNamePrivate":"0x380",
@@ -32,10 +32,10 @@
 "OffsetRelativeRotation":"0x140",
 "OffsetTeamIndex":"0x10D8",
 "OffsetReviveFromDBNOTime":"0x46b8",
-"OffsetBoneArray":"0x600",
+"OffsetBoneArray":"0x610",
 "OffsetActorTeamId":"0x10C8",
-"OffsetLastSubmitTime":"0x360",
-"OffsetLastRenderTimeOnScreen":"0x368"
+"OffsetLastSubmitTime":"0x368",
+"OffsetLastRenderTimeOnScreen":"0x370"
 
 
    }
