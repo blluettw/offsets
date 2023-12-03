@@ -1,9 +1,9 @@
 {
    "offsets":{
-"OffsetWorld":"0x10AEC0B8",
+"OffsetWorld":"0x1123AF78",
 "OffsetNames":"0xF33B480",
 "OffsetPersistentLevel":"0x30",
-"OffsetOwningGameInstance":"0x1b8",
+"OffsetOwningGameInstance":"0x1D0",
 "OffsetGameState":"0x158",
 "OffsetPlayerArray":"0x2A8",
 "OffsetActorArray":"0x98",
@@ -17,9 +17,9 @@
 "OffsetPlayerState":"0x2b0",
 "OffsetPlayerNameStruct":"0xAE0",
 "OffsetDamageHandler":"0x9A8",
-"OffsetisDBNO":"0x872",
-"OffsetCurrentWeapon":"0x9f8",
-"OffsetbIsReloadingWeapon":"0x358",
+"OffsetisDBNO":"0x9A3",
+"OffsetCurrentWeapon":"0xA20",
+"OffsetbIsReloadingWeapon":"0x360",
 "OffsetPawnPrivate":"0x308",
 "OffsetPlayerNamePrivate":"0x380",
 "OffsetCameraCachePrivate":"0x22B0",
@@ -29,12 +29,12 @@
 "OffsetRootComponent":"0x198",
 "OffsetRelativeLocation":"0x128",
 "OffsetRelativeRotation":"0x140",
-"OffsetTeamIndex":"0x10D8",
+"OffsetTeamIndex":"0x10e0",
 "OffsetReviveFromDBNOTime":"0x46b8",
-"OffsetBoneArray":"0x610",
-"OffsetActorTeamId":"0x10C8",
-"OffsetLastSubmitTime":"0x368",
-"OffsetLastRenderTimeOnScreen":"0x370"
+"OffsetBoneArray":"0x608",
+"OffsetActorTeamId":"0x10e0",
+"OffsetLastSubmitTime":"0x358",
+"OffsetLastRenderTimeOnScreen":"0x360"
    }
 }
 
