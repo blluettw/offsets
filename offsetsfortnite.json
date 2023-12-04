@@ -6,7 +6,7 @@
 "OffsetOwningGameInstance":"0x1D0",
 "OffsetGameState":"0x158",
 "OffsetPlayerArray":"0x2A8",
-"OffsetActorArray":"0x98",
+"OffsetActorArray":"0xa0",
 "OffsetActorCount":"0xA0",
 "OffsetLocalPlayers":"0x38",
 "OffsetLocalPawn":"0x338",
