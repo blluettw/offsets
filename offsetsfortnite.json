@@ -30,7 +30,7 @@
 "OffsetRelativeLocation":"0x120",
 "OffsetRelativeRotation":"0x138",
 "OffsetTeamIndex":"0x10f1",
-"OffsetReviveFromDBNOTime":"0x4AE0",
+"OffsetReviveFromDBNOTime":"0x4b50",
 "OffsetBoneArray":"0x598",
 "OffsetActorTeamId":"0x10f1",
 "OffsetLastSubmitTime":"0x2E8",
