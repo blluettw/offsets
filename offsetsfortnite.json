@@ -35,5 +35,6 @@
 "OffsetActorTeamId":"0x10f1",
 "OffsetLastSubmitTime":"0x2E8",
 "OffsetLastRenderTimeOnScreen":"0x2F0"
+"ComponentVelocity":"0x168"
    }
 }
