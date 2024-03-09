@@ -1,6 +1,6 @@
 {
    "offsets":{
-"OffsetWorld":"0x10C628D8;",
+"OffsetWorld":"0x11F66558;",
 "OffsetNames":"0x12144040;",
 "OffsetPersistentLevel":"0x30",
 "OffsetOwningGameInstance":"0x1D0",
@@ -29,9 +29,9 @@
 "OffsetRootComponent":"0x198",
 "OffsetRelativeLocation":"0x120",
 "OffsetRelativeRotation":"0x138",
-"OffsetTeamIndex":"0x10f1",
+"OffsetTeamIndex":"0x1251",
 "OffsetReviveFromDBNOTime":"0x4b50",
-"OffsetBoneArray":"0x598",
+"OffsetBoneArray":"0x5E0",
 "OffsetActorTeamId":"0x10f1",
 "OffsetLastSubmitTime":"0x2E8",
 "ComponentVelocity":"0x168",
