@@ -1,10 +1,10 @@
 {
    "offsets":{
-"OffsetWorld":"0x11F66558;",
+"OffsetWorld":"0x11DFAE08;",
 "OffsetNames":"0x12144040;",
 "OffsetPersistentLevel":"0x30",
 "OffsetOwningGameInstance":"0x1D0",
-"OffsetGameState":"0x158",
+"OffsetGameState":"0x160",
 "OffsetPlayerArray":"0x2A8",
 "OffsetActorArray":"0xA0",
 "OffsetActorCount":"0xA8",
@@ -29,7 +29,7 @@
 "OffsetRootComponent":"0x198",
 "OffsetRelativeLocation":"0x120",
 "OffsetRelativeRotation":"0x138",
-"OffsetTeamIndex":"0x10D8",
+"OffsetTeamIndex":"0x1251",
 "OffsetReviveFromDBNOTime":"0x4b50",
 "OffsetBoneArray":"0x598",
 "OffsetActorTeamId":"0x10C8",
