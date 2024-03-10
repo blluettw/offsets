@@ -34,8 +34,8 @@
 "OffsetBoneArray":"0x598",
 "OffsetActorTeamId":"0x10C8",
 "OffsetLastSubmitTime":"0x2E8",
-"ComponentVelocity":"0x168",
-"OffsetLastRenderTimeOnScreen":"0x2F0"
+"ComponentVelocity":"0x0", 
+"OffsetLastRenderTimeOnScreen":"0x0"
 
    }
 }
