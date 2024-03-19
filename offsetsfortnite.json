@@ -35,6 +35,7 @@
 "OffsetActorTeamId":"0x10C8",
 "OffsetLastSubmitTime":"0x2E8",
 "ComponentVelocity":"0x168", 
+"OffsetBoneArrayCache":"0x5F8", 
 "OffsetLastRenderTimeOnScreen":"0x2F0"
 
    }
