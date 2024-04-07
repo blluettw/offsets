@@ -18,7 +18,7 @@
     "RelativeLocation" : "0x164",
     "RelativeRotation" : "0x170",
     "MeshComponent" : "0x438",
-    "DamageHandler" : "0xA08", //0x9f8
+    "DamageHandler" : "0xA08",
     "DamageSections" : "0x198",
     "DamageType" : "0x128",
     "HP" : "0x134",
@@ -31,6 +31,6 @@
     "BoneArrayCache" : "0x5C8",
     "SpikeTimer" : "0x4e4",
     "CurrentDefuseSection" : "0x510",
-    "BoneCount" : "0x5E0";
+    "BoneCount" : "0x5E0"
    }
 }
