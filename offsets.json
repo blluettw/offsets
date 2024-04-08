@@ -13,6 +13,7 @@
 "ControlRotation":"0x448",
 "UniqueID":"0x38",
 "FNameID":"0x18",
+"AActorArray":"0xA0",
 "RootComponent":"0x238",
 "RelativeLocation":"0x164",
 "RelativeRotation":"0x170",
