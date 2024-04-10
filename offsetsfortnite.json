@@ -7,7 +7,7 @@
 "OffsetGameState":"0x160",
 "OffsetPlayerArray":"0x2A8",
 "OffsetActorArray":"0xA0",
-"OffsetActorCount":"0x98",
+"OffsetActorCount":"0xA8",
 "OffsetLocalPlayers":"0x38",
 "OffsetLocalPawn":"0x338",
 "OffsetLocalPlayerControl":"0x30",
