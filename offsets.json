@@ -7,7 +7,7 @@
 "PlayerCameraManager":"0x458", 
 "MyHUD":"0x458",
 "AcknowledgedPawn":"0x448",
-"PlayerState":"0x3D8",
+"PlayerState":"0x3f8",
 "TeamComponent":"0x610",
 "TeamID":"0xf8",
 "ControlRotation":"0x448",
