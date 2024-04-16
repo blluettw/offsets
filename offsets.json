@@ -4,7 +4,7 @@
 "Ulevel":"0x38",
 "LocalPlayers":"0x40",
 "PlayerController":"0x38",
-"PlayerCameraManager":"0x480", 
+"PlayerCameraManager":"0x460", 
 "MyHUD":"0x478",
 "AcknowledgedPawn":"0x448",
 "PlayerState":"0x3D8",
