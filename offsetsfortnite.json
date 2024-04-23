@@ -1,7 +1,7 @@
 {
    "offsets":{
-"OffsetWorld":"0x1216B7B8",
-"OffsetNames":"0x12328480",
+"OffsetWorld":"0x12634238",
+"OffsetNames":"0x127F3180",
 "OffsetPersistentLevel":"0x30",
 "OffsetOwningGameInstance":"0x1D8",
 "OffsetGameState":"0x160",
@@ -37,9 +37,9 @@
 "ComponentVelocity":"0x168", 
 "OffsetBoneArrayCache":"0x5F8", 
 "OffsetLastRenderTimeOnScreen":"0x2F0",
-"Offsetammo_count":"0xE54",
+"Offsetammo_count":"0xEBC",
 "Offsetweapon_data":"0x4f0",
-"Offsettier":"0x13c",
+"Offsettier":"0x0EB",
 "OffsetItemName":"0x40",
 "Offsetftext_data":"0x28",
 "Offsetfftext_length":"0x30",
