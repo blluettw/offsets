@@ -18,7 +18,7 @@
 "OffsetPlayerNameStruct":"0xab0",
 "OffsetDamageHandler":"0x9A8",
 "OffsetisDBNO":"0x982",
-"OffsetCurrentWeapon":"0xA20",
+"OffsetCurrentWeapon":"0xA68",
 "OffsetbIsReloadingWeapon":"0x388",
 "OffsetPawnPrivate":"0x308",
 "OffsetPlayerNamePrivate":"0x328",
