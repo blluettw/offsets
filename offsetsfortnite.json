@@ -1,7 +1,7 @@
 {
    "offsets":{
 "OffsetWorld":"0x127A4BD8",
-"OffsetNames":"0x12894800",
+"OffsetNames":"0x12969D80",
 "OffsetPersistentLevel":"0x30",
 "OffsetOwningGameInstance":"0x1D8",
 "OffsetGameState":"0x160",
@@ -38,7 +38,7 @@
 "OffsetBoneArrayCache":"0x5F8", 
 "OffsetLastRenderTimeOnScreen":"0x2F0",
 "Offsetammo_count":"0xEBC",
-"Offsetweapon_data":"0x4f0",
+"Offsetweapon_data":"0x500",
 "Offsettier":"0x0EB",
 "OffsetItemName":"0x40",
 "Offsetftext_data":"0x28",
