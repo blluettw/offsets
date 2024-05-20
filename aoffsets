@@ -14,7 +14,7 @@
 "OffsetAcknowledgedPawn":"0x360",
 "OffsetCameraManager":"0x378",
 "OffsetMyHUD":"0x370",
-"OffsetPlayerState":"0x2b0",
+"OffsetPlayerState":"0x310",
 "OffsetPlayerNameStruct":"0xab0",
 "OffsetDamageHandler":"0x9A8",
 "OffsetisDBNO":"0x982",
