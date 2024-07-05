@@ -29,8 +29,8 @@
 "FNamePool":"0xAA371C0",
 "BoneArray":"0x5D8",
 "BoneArrayCache":"0x5C8",
-"SpikeTimer":"0x4C4",
-"CurrentDefuseSection":"0x4F0",
+"SpikeTimer":"0x4bc",
+"CurrentDefuseSection":"0x4d8",
 "BoneCount":"0x5E0"
    }
 }
