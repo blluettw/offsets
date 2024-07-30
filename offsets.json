@@ -26,7 +26,7 @@
 "bIsDormant":"0x100",
 "Health":"0x1B0",
 "ComponentToWorld":"0x250",
-"FNamePool":"0xAA964C0",
+"FNamePool":"0xAAE7CC0",
 "BoneArray":"0x5D8",
 "BoneArrayCache":"0x5C8",
 "SpikeTimer":"0x4bc",
