@@ -23,7 +23,7 @@
 "OffsetPawnPrivate":"0x308",
 "OffsetPlayerNamePrivate":"0x328",
 "OffsetCameraCachePrivate":"0x22B0",
-"OffsetMesh":"0x318",
+"OffsetMesh":"0x310",
 "OffsetComponentToWorld":"0x1c0",
 "OffsetCurrentHealth":"0xE54",
 "OffsetRootComponent":"0x198",
