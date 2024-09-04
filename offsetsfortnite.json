@@ -1,7 +1,7 @@
 {
    "offsets":{
 "OffsetWorld":"0x11FCBD78",
-"OffsetVaText":"0",
+"OffsetVaText":"0x602BC0BB",
 "OffsetNames":"0x120A7A40",
 "OffsetPersistentLevel":"0x30",
 "OffsetOwningGameInstance":"0x1D8",
