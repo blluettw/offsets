@@ -18,7 +18,7 @@
 "RelativeLocation":"0x164",
 "RelativeRotation":"0x170",
 "MeshComponent":"0x418",
-"DamageHandler":"0x9E0",
+"DamageHandler":"0x9f0",
 "DamageSections":"0x198",
 "DamageType":"0x128",
 "HP":"0x134",
