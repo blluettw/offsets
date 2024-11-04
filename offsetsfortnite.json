@@ -13,7 +13,7 @@
 "OffsetLocalPawn":"0x338",
 "OffsetLocalPlayerControl":"0x30",
 "OffsetAcknowledgedPawn":"0x350",
-"OffsetCameraManager":"0x348",
+"OffsetCameraManager":"0x360",
 "OffsetMyHUD":"0x338",
 "OffsetPlayerState":"0x2b0",
 "OffsetPlayerNameStruct":"0xab0",
