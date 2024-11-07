@@ -1,6 +1,6 @@
 {
    "offsets":{
-"OffsetWorld":"0x12DA3A98",
+"OffsetWorld":"0x12D17A08",
 "OffsetVaText":"0x602BC0BB",
 "OffsetNames":"0x121B1400",
 "OffsetPersistentLevel":"0x30",
@@ -29,8 +29,8 @@
 "OffsetCurrentHealth":"0xE54",
 "OffsetRootComponent":"0x1B0",
 "OffsetRelativeLocation":"0x120",
-"OffsetRelativeRotation":"0x138",
-"OffsetTeamIndex":"0xE88",
+"OffsetRelativeRotation":"0x130",
+"OffsetTeamIndex":"0x1239",
 "OffsetReviveFromDBNOTime":"0x4C30",
 "OffsetBoneArray":"0x580",
 "OffsetActorTeamId":"0x10C8",
