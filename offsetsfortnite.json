@@ -10,7 +10,7 @@
 "OffsetActorArray":"0xA0",
 "OffsetActorCount":"0xA8",
 "OffsetLocalPlayers":"0x38",
-"OffsetLocalPawn":"0x338",
+"OffsetLocalPawn":"0x350",
 "OffsetLocalPlayerControl":"0x30",
 "OffsetAcknowledgedPawn":"0x350",
 "OffsetCameraManager":"0x348",
