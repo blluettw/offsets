@@ -1,6 +1,6 @@
 {
    "offsets":{
-"OffsetWorld":"0x1683A738",
+"OffsetWorld":"0x164015B8",
 "OffsetVaText":"0x602BC0BB",
 "OffsetNames":"0x121B1400",
 "OffsetPersistentLevel":"0x30",
@@ -36,7 +36,7 @@
 "OffsetActorTeamId":"0x10C8",
 "OffsetLastSubmitTime":"0x2E8",
 "ComponentVelocity":"0x180", 
-"OffsetBoneArrayCache":"0x590", 
+"OffsetBoneArrayCache":"0x5B8", 
 "OffsetLastRenderTimeOnScreen":"0x2F0",
 "Offsetammo_count":"0xEBC",
 "Offsetweapon_data":"0x500",
