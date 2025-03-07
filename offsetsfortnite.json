@@ -3,7 +3,7 @@
 "OffsetWorld":"0x17719838",
 "OffsetVaText":"0x602BC0BB",
 "OffsetNames":"0x121B1400",
-"OffsetPersistentLevel":"0x30",
+"OffsetPersistentLevel":"0x40",
 "OffsetOwningGameInstance":"0x210",
 "OffsetGameState":"0x198",
 "OffsetPlayerArray":"0x2c0",
