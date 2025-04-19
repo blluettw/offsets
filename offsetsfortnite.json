@@ -1,14 +1,14 @@
 {
    "offsets":{
-"OffsetWorld":"0x16EB5008",
+"OffsetWorld":"0x16DA8288",
 "OffsetVaText":"0x602BC0BB",
 "OffsetNames":"0x121B1400",
 "OffsetPersistentLevel":"0x1B0",
 "OffsetOwningGameInstance":"0x210",
 "OffsetGameState":"0x198",
 "OffsetPlayerArray":"0x2c0",
-"OffsetActorArray":"0x188",
-"OffsetActorCount":"0x200",
+"OffsetActorArray":"0x1F0",
+"OffsetActorCount":"0x1F8",
 "OffsetLocalPlayers":"0x38",
 "OffsetLocalPawn":"0x350",
 "OffsetLocalPlayerControl":"0x30",
