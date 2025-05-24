@@ -28,7 +28,7 @@
 "OffsetComponentToWorld":"0x1E0",
 "OffsetCurrentHealth":"0xE54",
 "OffsetRootComponent":"0x1B0",
-"OffsetRelativeLocation":"0x160",
+"OffsetRelativeLocation":"0x138",
 "OffsetRelativeRotation":"0x170",
 "OffsetTeamIndex":"0x1261",
 "OffsetReviveFromDBNOTime":"0x4C30",
