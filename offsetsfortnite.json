@@ -39,11 +39,11 @@
 "OffsetBoneArrayCache":"0x5F8", 
 "OffsetLastRenderTimeOnScreen":"0x2F0",
 "Offsetammo_count":"0xEBC",
-"Offsetweapon_data":"0x500",
+"Offsetweapon_data":"0x6B0",
 "Offsettier":"0x0EB",
 "OffsetItemName":"0x40",
-"Offsetftext_data":"0x28",
-"Offsetfftext_length":"0x30",
-"OffsetpNameStructure":"0xAF0"
+"Offsetftext_data":"0x20",
+"Offsetfftext_length":"0x28",
+"OffsetpNameStructure":"0xB40"
    }
 }
