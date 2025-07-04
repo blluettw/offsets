@@ -45,6 +45,13 @@
     "DefuseProcess": "0x4f0",
     "SpikeTime": "0x4d4",
     "Hasdefused": "0x4dd",
-    "CurrentDefuseSection": "0x504"
+    "CurrentDefuseSection": "0x504",
+
+    "names_state": "0xb4fd5c0",
+    "fnamepool": "0xb4ca600",
+    "shadowregion": "0x80708",
+    "qword": "80720",
+    "byte": "807D0"
+
   }
 }
