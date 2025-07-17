@@ -50,8 +50,8 @@
     "names_state": "0xb4fd5c0",
     "fnamepool": "0xb4ca600",
     "shadowregion": "0x80708",
-    "qword": "80720",
-    "byte": "807D0"
+    "qword": "0x80720",
+    "byte": "0x807D0"
 
   }
 }
