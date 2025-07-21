@@ -27,7 +27,7 @@
 
     "DamageHandler": "0xa08",
     "Health": "0x1F0",
-    "DamageSections": "0x198",
+    "DamageSections": "0x01D8",
     "DamageType": "0x128",
     "HP": "0x134",
     "MaxHP": "0x138",
