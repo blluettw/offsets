@@ -2,7 +2,7 @@
   "offsets": {
     "GWorld": "0xB4C0DB0",
     "Uleve": "0x38",
-    "GameInstance": "0x1A0",
+    "GameInstance": "0x1D8",
     "GameState": "0x178",
     "PlayerArray": "0xA0",
 
