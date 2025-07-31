@@ -22,7 +22,7 @@
     "Dormant2": "0x101",
 
     "PlayerState": "0x0480",
-    "TeamComponent": "0x0498",
+    "TeamComponent": "0x0680",
     "TeamIndex": "0xE8",
 
     "DamageHandler": "0x0C50",
