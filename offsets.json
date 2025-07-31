@@ -11,7 +11,7 @@
     "PlayerCameraManager": "0x0520",
     "AcknowledgedPawn": "0x0510",
     "MyHUD": "0x0518",
-    "UniqueID": "0x38",
+    "UniqueID": "0x30",
 
     "Mesh": "0x04E8",
     "RootComponent": "0x238",
