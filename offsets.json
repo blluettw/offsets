@@ -37,9 +37,9 @@
     "IDWeapons": "0x18",
     "NameStructure": "0x18",
 
-    "BoneArray": "0x5D8",
-    "BoneCount": "0x5E0",
-    "BoneCached": "0x5C8",
+    "BoneArray": "0x0730",
+    "BoneCount": "0x738",
+    "BoneCached": "0x740",
 
     "BomSide": "0x4dc",
     "DefuseProcess": "0x4f0",
