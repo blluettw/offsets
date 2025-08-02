@@ -32,7 +32,7 @@
     "HP": "0x134",
     "MaxHP": "0x138",
 
-    "InventoryEnemy": "0x9a8",
+    "InventoryEnemy": "0xBF0",
     "CurrentEquip": "0x248",
     "IDWeapons": "0x18",
     "NameStructure": "0x18",
