@@ -49,7 +49,7 @@
 "OffsetLastSubmitTime":"0x2E8",
 "ComponentVelocity":"0x180", 
 "OffsetBoneArrayCache":"0x5F8", 
- "Seconds":"0x190", 
+ "Seconds":"0x198", 
 "OffsetLastRenderTimeOnScreen":"0x32c",
 "Offsetammo_count":"0xEBC",
 "Offsetweapon_data":"0x570",
