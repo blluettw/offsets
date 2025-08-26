@@ -42,7 +42,7 @@
 "OffsetRootComponent":"0x1b0",
 "OffsetRelativeLocation":"0x178",
 "OffsetRelativeRotation":"0x188",
-"OffsetTeamIndex":"0x12C1",
+"OffsetTeamIndex":"0x12B9",
 "OffsetReviveFromDBNOTime":"0x4D60",
 "OffsetBoneArray":"0x5E8",
 "OffsetActorTeamId":"0x1291",
@@ -57,6 +57,6 @@
 "OffsetItemName":"0x40",
 "Offsetftext_data":"0x20",
 "Offsetfftext_length":"0x28",
-"OffsetpNameStructure":"0xB48"
+"OffsetpNameStructure":"0xB40"
    }
 }
