@@ -1,9 +1,9 @@
 {
   "offsets": {
-    "GWorld": "0xB490930",
+    "GWorld": "0x17DD3708",
     "Uleve": "0x38",
-    "GameInstance": "0x1D8",
-    "GameState": "0x178",
+    "GameInstance": "0x240",
+    "GameState": "0x1C8",
     "PlayerArray": "0xA0",
 
     "LocalPlayers": "0x40",
