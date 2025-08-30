@@ -53,7 +53,6 @@
     "shadowregion": "0x838F8",
     "qword": "0x839C0",
     "byte": "0x83910",
-
     "oldshadowregion": "0x82708",
     "oldqword": "0x82720",
     "oldbyte": "0x827D0"
