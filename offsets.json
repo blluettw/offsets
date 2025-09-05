@@ -14,7 +14,7 @@
     "UniqueID": "0x30",
 
     "Mesh": "0x04E8",
-    "RootComponent": "0x238",
+    "RootComponent": "0x0288",
     "RelativeLocation": "0x0170",
     "RelativeRotation": "0x0170",
     "ComponentToWorld": "0x2D0",
