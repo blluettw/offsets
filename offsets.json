@@ -27,10 +27,10 @@
 
     "DamageHandler": "0xC58",
     "Health": "0x01E0",
-    "DamageSections": "0x01D8",
-    "DamageType": "0x128",
-    "HP": "0x134",
-    "MaxHP": "0x138",
+    "DamageSections": "0x1c8",
+    "DamageType": "0x118",
+    "HP": "0x124",
+    "MaxHP": "0x128",
 
     "InventoryEnemy": "0xBF0",
     "CurrentEquip": "0x248",
