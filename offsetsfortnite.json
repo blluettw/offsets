@@ -1,6 +1,6 @@
 {
    "offsets":{
-"OffsetWorld":"0x176774E8",
+"OffsetWorld":"0x177255E8",
 "OffsetVaText":"0x602BC0BB",
 "OffsetNames":"0x121B1400",
 "OffsetPersistentLevel":"0x38",
@@ -26,8 +26,8 @@
  "UFortClientSettingsRecord":"0x368",
  "OffHabaneroComponent":"0xA80",  
 "OffsetCurrentWeapon":"0x990",
-"WeaponProjectileSpeed":"0x1FDC",
- "WeaponProjectileGravity":"0x1FE0",
+"WeaponProjectileSpeed":"0x20e0",
+ "WeaponProjectileGravity":"0x21c0",
 "Plataform":"0x430",
 "SensibX":"0x790",
 "SensibY":"0x794",
