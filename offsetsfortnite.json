@@ -6,6 +6,7 @@
 "OffsetPersistentLevel":"0x38",
       "OffsetAActors":"0x208",
 "OffsetULevel":"0x1f0",
+"OffsetItemDef": "0x370",
 "OffsetOwningGameInstance":"0x250",
 "OffsetGameState":"0x1d8",
 "OffsetPlayerArray":"0x2c0",
