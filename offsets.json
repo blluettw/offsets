@@ -51,8 +51,8 @@
     "fnamepool": "0xB5074C0",
 
     "shadowregion": "0x838F8",
-    "qword": "0x839C0",
-    "byte": "0x83910",
+    "qword": "0x84C20",
+    "byte": "0x84CD0",
     "oldshadowregion": "0x82708",
     "oldqword": "0x82720",
     "oldbyte": "0x827D0"
