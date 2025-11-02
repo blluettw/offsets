@@ -35,7 +35,7 @@
 "SensibX":"0x790",
 "SensibY":"0x794",
 "OffsetbIsReloadingWeapon":"0x3B9",
-"OffsetPawnPrivate":"0x320",
+"OffsetPawnPrivate":"0x328",
 "OffsetPlayerNamePrivate":"0xA00",
 "OffsetCameraCachePrivate":"0x22B0",
 "OffsetMesh":"0x330",
