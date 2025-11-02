@@ -19,7 +19,7 @@
 "OffsetCameraManager":"0x360",
 "OffsetMyHUD":"0x338",
 "OffsetPlayerState":"0x2d0",
-"OffsetPlayerNameStruct":"0x9F8",
+"OffsetPlayerNameStruct":"0xa00",
 "OffsetDamageHandler":"0x9A8",
 "OffsetisDBNO":"0x841",
 "OffsetisDying":"0x728",     
@@ -27,7 +27,7 @@
  "RankProgress":"0xD8", 
  "UniqueID":"0x2AC", 
  "UFortClientSettingsRecord":"0x380",
- "OffHabaneroComponent":"0x938",  
+ "OffHabaneroComponent":"0x940",  
 "OffsetCurrentWeapon":"0x990",
 "WeaponProjectileSpeed":"0x2634",
  "WeaponProjectileGravity":"0x2638",
@@ -63,6 +63,6 @@
 "OffsetItemName":"0x40",
 "Offsetftext_data":"0x20",
 "Offsetfftext_length":"0x28",
-"OffsetpNameStructure":"0x9f8"
+"OffsetpNameStructure":"0xa00"
    }
 }
