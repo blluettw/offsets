@@ -57,7 +57,7 @@
  "Seconds":"0x198", 
 "OffsetLastRenderTimeOnScreen":"0x32C",
 "Offsetammo_count":"0x1184",
-"Offsetweapon_data":"0x580",
+"Offsetweapon_data":"0x5A0",
 "Offsettier":"0xAA",
 "OffsetItemRarity" :"0xaa",
 "OffsetItemName":"0x40",
