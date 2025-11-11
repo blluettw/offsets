@@ -1,13 +1,13 @@
 {
    "offsets":{
-"OffsetWorld":"0x16ea99b0",
+"OffsetWorld":"0x173bdd18",
 "OffsetVaText":"0x602BC0BB",
 "OffsetNames":"0x121B1400",
 "OffsetPersistentLevel":"0x38",
       "OffsetAActors":"0xA0",
-"OffsetULevel":"0x1E0",
+"OffsetULevel":"0x1e8",
 "OffsetItemDef": "0x370",
-"OffsetOwningGameInstance":"0x240",
+"OffsetOwningGameInstance":"0x248",
 "OffsetGameState":"0x1c8",
 "OffsetPlayerArray":"0x2c8",
 "OffsetActorArray":"0x2c0",
