@@ -27,7 +27,7 @@
  "RankProgress":"0x0D8", 
  "UniqueID":"0x2AC", 
  "UFortClientSettingsRecord":"0x380",
- "OffHabaneroComponent":"0x938",  
+ "OffHabaneroComponent":"0x940",  
 "OffsetCurrentWeapon":"0x990",
 "WeaponProjectileSpeed":"0x2750",
  "WeaponProjectileGravity":"0x2754",
