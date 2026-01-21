@@ -39,7 +39,7 @@
 "OffsetPlayerNamePrivate":"0xA00",
 "OffsetCameraCachePrivate":"0x22B0",
 "OffsetMesh":"0x330",
-"TargetedFortPawn":"0x1830",
+"TargetedFortPawn":"0x11830",
 "OffsetComponentToWorld":"0x1E0",
 "OffsetCurrentHealth":"0xE54",
 "OffsetRootComponent":"0x1b0",
