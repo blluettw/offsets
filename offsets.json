@@ -25,8 +25,8 @@
     "TeamComponent": "0x6A8",
     "TeamIndex": "0xE8",
 
-    "DamageHandler": "0xc58",
-    "Health": "0x01E0",
+    "DamageHandler": "0xc68",
+    "Health": "0x200",
     "DamageSections": "0x1c8",
     "DamageType": "0x118",
     "HP": "0x124",
