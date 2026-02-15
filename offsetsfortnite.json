@@ -47,7 +47,7 @@
 "OffsetRelativeLocation":"0x180",
 "OffsetRelativeRotation":"0x190",
 "OffsetTeamIndex":"0x11B1",
-"OffsetPlayerKill":"0x11C8",
+"OffsetPlayerKill":"0x11c8",
 "OffsetReviveFromDBNOTime":"0x4D60",
 "OffsetBoneArray":"0x5F0",
 "OffsetActorTeamId":"0x11B1",
