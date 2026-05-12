@@ -8,20 +8,20 @@
 
     "LocalPlayers": "0x40",
     "PlayerController": "0x38",
-    "PlayerCameraManager": "0x0520",
-    "AcknowledgedPawn": "0x0510",
-    "MyHUD": "0x0518",
+    "PlayerCameraManager": "0x528",
+    "AcknowledgedPawn": "0x518",
+    "MyHUD": "0x520",
     "UniqueID": "0x30",
 
-    "Mesh": "0x04E8",
-    "RootComponent": "0x0288",
+    "Mesh": "0x4F0",
+    "RootComponent": "0x290",
     "RelativeLocation": "0x0170",
     "RelativeRotation": "0x0170",
     "ComponentToWorld": "0x2D0",
     "Dormant": "0x100",
     "Dormant2": "0x101",
 
-    "PlayerState": "0x0480",
+    "PlayerState": "0x488",
     "TeamComponent": "0x6A8",
     "TeamIndex": "0xE8",
 
