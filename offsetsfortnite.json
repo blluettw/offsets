@@ -60,7 +60,7 @@
 "Offsetweapon_data":"0x678",
 "Offsettier":"0xA2",
 "OffsetItemRarity" :"0xaa",
-"OffsetItemName":"0x40",
+"OffsetItemName":"0x38",
 "Offsetftext_data":"0x20",
 "Offsetfftext_length":"0x28",
 "OffsetpNameStructure":"0x9F8"
