@@ -19,6 +19,8 @@
       "OffsetRootComponent":"0x1B0",
       "OffsetComponentToWorld":"0x1E0",
       "OffsetRelativeLocation":"0x140",
+      "Offsetftext_data":"0x20",
+"Offsetfftext_length":"0x28",
       "OffsetLocationPointer":"0x170",
       "OffsetRotationPointer":"0x180",
       "OffsetBoneArray":"0x660",
